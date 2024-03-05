@@ -1,0 +1,9 @@
+E:\215\05.03.24 (pr 5)\obj\Debug\05.03.24 (pr 5).csproj.AssemblyReference.cache
+E:\215\05.03.24 (pr 5)\obj\Debug\05.03.24 (pr 5).csproj.CoreCompileInputs.cache
+G:\215\05.03.24 (pr 5)\bin\Debug\05.03.24 (pr 5).exe.config
+G:\215\05.03.24 (pr 5)\bin\Debug\05.03.24 (pr 5).exe
+G:\215\05.03.24 (pr 5)\bin\Debug\05.03.24 (pr 5).pdb
+G:\215\05.03.24 (pr 5)\obj\Debug\05.03.24 (pr 5).csproj.AssemblyReference.cache
+G:\215\05.03.24 (pr 5)\obj\Debug\05.03.24 (pr 5).csproj.CoreCompileInputs.cache
+G:\215\05.03.24 (pr 5)\obj\Debug\05.03.24 (pr 5).exe
+G:\215\05.03.24 (pr 5)\obj\Debug\05.03.24 (pr 5).pdb
